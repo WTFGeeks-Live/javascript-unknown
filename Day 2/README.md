@@ -22,3 +22,11 @@ Complete the `getLetter(s)` function in the editor. It has one parameter: a stri
 - If the first character in string s is in the set {h, j, k, l, m}, then return `C`.
 - If the first character in string s is in the set {n, p, q, r, s, t, v, w, x, y, z}, then return `D`.
 
+<br>**Day 2: Loops** <br>
+
+**Task**<br>
+
+Complete the *vowelsAndConsonants* function in the editor below. It has one parameter, a string, s, consisting of lowercase English alphabetic letters (i.e., `a` through `z`). The function must do the following:
+
+1. First, print each *vowel* in s on a new line. The English vowels are _a_, _e_, _i_, _o_, and _u_, and each vowel must be printed in the same order as it appeared in s.
+2. Second, print each *consonant* (i.e., non-vowel) in s on a new line in the same order as it appeared in s.
