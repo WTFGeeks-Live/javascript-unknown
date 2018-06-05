@@ -23,3 +23,14 @@ The code in the editor has a tagged template literal that passes the area and pe
 <br>where A is the rectangle's area and P is its perimeter.<br>
 2. Creates an array consisting of s<sub>1</sub> and s<sub>2</sub> and sorts it in ascending order.<br>
 3. Returns the sorted array.<br>
+
+<br>**Day 5: Arrow Functions**<br>
+
+**Task**<br>
+
+Complete the function in the editor. It has one parameter: an array, nums. It must iterate through the array performing one of the following actions on each element:
+
+- If the element is even, multiply the element by 2.
+- If the element is odd, multiply the element by 3.
+
+The function must then return the modified array.
