@@ -12,3 +12,9 @@ Complete the function in the editor below by returning a *RegExp* object, re, th
 
 - String s *starts with* the prefix `Mr.`, `Mrs.`, `Ms.`, `Dr.`, or `Er.`
 - The remainder of string s (i.e., the rest of the string after the prefix) consists of one or more upper and/or lowercase English alphabetic letters (i.e., `[a-z]` and `[A-Z]`).
+
+<br>**Day 7: Regular Expressions III**<br>
+
+**Task**<br>
+
+Complete the function in the editor below by returning a *RegExp* object, re, that matches *every integer* in some string s.
